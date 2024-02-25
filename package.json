@@ -1,0 +1,19 @@
+{
+  "name": "mul2-nhochiennhoc",
+  "version": "1.0.0",
+  "description": "Calculate multiphy of three digits",
+  "main": "index.js",
+  "dependencies": {
+    "mul-nhochiennhoc": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhochiennhoc/mul2-nhochiennhoc"
+  },
+  "keywords": ["mul2", "multiphy", "multiple", "nhan"],
+  "author": "Hien Quang",
+  "license": "ISC"
+}
